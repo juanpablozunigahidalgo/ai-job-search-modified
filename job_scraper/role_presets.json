@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "notes": "Strategic LinkedIn query titles for Juan Pablo Zúñiga — AI + cloud + industrial/innovation background. Edit enabled=true to include in the next battery. Saved automatically from the Job Battery GUI.",
+  "defaults": {
+    "jobage": 7,
+    "mode": "hybrid",
+    "limit": 8,
+    "sources": {
+      "linkedin": true,
+      "arbetsformedlingen": false
+    }
+  },
+  "roles": [
+    {
+      "id": "ai-solutions-architect",
+      "title": "AI Solutions Architect",
+      "tier": "core",
+      "why": "Direct match to current title + Bedrock/OCI enterprise delivery",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "genai-solutions-architect",
+      "title": "Generative AI Solutions Architect",
+      "tier": "core",
+      "why": "Same architect path, GenAI-labelled postings (EU banks/pharma/retail)",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "ai-engineer",
+      "title": "AI Engineer",
+      "tier": "core",
+      "why": "Hands-on LLM agents, RAG, FastAPI — keeps skills sharp",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "generative-ai-engineer",
+      "title": "Generative AI Engineer",
+      "tier": "core",
+      "why": "Common EU title for LLM product work",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "llm-engineer",
+      "title": "LLM Engineer",
+      "tier": "core",
+      "why": "Narrower GenAI eng roles; good for depth",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "agentic-ai-engineer",
+      "title": "Agentic AI Engineer",
+      "tier": "growth",
+      "why": "2026-27 wave: multi-agent / Bedrock Agents style work you already ship",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "ai-platform-engineer",
+      "title": "AI Platform Engineer",
+      "tier": "growth",
+      "why": "Platform + LLMOps (MLflow/Prefect) → durable career capital",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "llmops-engineer",
+      "title": "LLMOps Engineer",
+      "tier": "growth",
+      "why": "Governance/deploy of GenAI — scarce + high leverage",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "mlops-engineer",
+      "title": "MLOps Engineer",
+      "tier": "core",
+      "why": "Broader search net for platform/ML lifecycle roles",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "applied-ai-engineer",
+      "title": "Applied AI Engineer",
+      "tier": "core",
+      "why": "Industry title for production GenAI (not research-only)",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "staff-ai-engineer",
+      "title": "Staff AI Engineer",
+      "tier": "senior",
+      "why": "Senior IC track without people-mgmt if you want depth",
+      "horizon": "2026-2027",
+      "enabled": false
+    },
+    {
+      "id": "principal-ai-engineer",
+      "title": "Principal AI Engineer",
+      "tier": "senior",
+      "why": "Stretch title; use selectively in Stockholm/London/Berlin",
+      "horizon": "2027",
+      "enabled": false
+    },
+    {
+      "id": "data-ai-architect",
+      "title": "Data & AI Architect",
+      "tier": "core",
+      "why": "Nordic/EU consulting title; bridges BI + GenAI",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "cloud-ai-architect",
+      "title": "Cloud AI Architect",
+      "tier": "core",
+      "why": "AWS/OCI/Azure certs + architecture narrative",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "aws-ai-architect",
+      "title": "AWS AI Architect",
+      "tier": "growth",
+      "why": "Bedrock-heavy roles; matches Danske Bank-style work",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "enterprise-architect-ai",
+      "title": "Enterprise Architect AI",
+      "tier": "senior",
+      "why": "Strategy + tech; Chalmers innovation + Oracle consulting",
+      "horizon": "2027",
+      "enabled": false
+    },
+    {
+      "id": "solution-architect-agentic-ai",
+      "title": "Solution Architect Agentic AI",
+      "tier": "growth",
+      "why": "Exact pattern already appearing (Cognizant etc.)",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "ai-integration-architect",
+      "title": "AI Integration Architect",
+      "tier": "growth",
+      "why": "Legacy + RAG/LangChain — Oracle EU strength",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "conversational-ai-architect",
+      "title": "Conversational AI Architect",
+      "tier": "adjacent",
+      "why": "ODA / Digital Assistant / banking agents path",
+      "horizon": "2026",
+      "enabled": false
+    },
+    {
+      "id": "industrial-ai-engineer",
+      "title": "Industrial AI Engineer",
+      "tier": "differentiator",
+      "why": "Mechanical + Volvo/mining edge — few candidates look like you",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "manufacturing-ai-engineer",
+      "title": "Manufacturing AI Engineer",
+      "tier": "differentiator",
+      "why": "Smart factory / Industry 5.0 in DE/SE/DK",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "digital-twin-engineer",
+      "title": "Digital Twin Engineer",
+      "tier": "differentiator",
+      "why": "Heavy engineering + software; future industrial digital",
+      "horizon": "2027",
+      "enabled": true
+    },
+    {
+      "id": "ai-product-engineer",
+      "title": "AI Product Engineer",
+      "tier": "growth",
+      "why": "Full-stack + GenAI product (React/Flutter + LLM)",
+      "horizon": "2026-2027",
+      "enabled": true
+    },
+    {
+      "id": "full-stack-ai-engineer",
+      "title": "Full Stack AI Engineer",
+      "tier": "core",
+      "why": "Your TS/React + Python AI combo",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "ai-consultant",
+      "title": "AI Consultant",
+      "tier": "adjacent",
+      "why": "Oracle/Capgemini/BCG-style delivery; high exposure",
+      "horizon": "2026",
+      "enabled": false
+    },
+    {
+      "id": "genai-consultant",
+      "title": "Generative AI Consultant",
+      "tier": "adjacent",
+      "why": "Same as above with GenAI label",
+      "horizon": "2026",
+      "enabled": false
+    },
+    {
+      "id": "ai-tech-architect",
+      "title": "AI Tech Architect",
+      "tier": "senior",
+      "why": "BCG Platinion / big consulting title you already match",
+      "horizon": "2026-2027",
+      "enabled": false
+    },
+    {
+      "id": "losningsarkitekt-ai",
+      "title": "Lösningsarkitekt AI",
+      "tier": "nordic",
+      "why": "Swedish market literal title — crucial in SE",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "ai-arkitekt",
+      "title": "AI-arkitekt",
+      "tier": "nordic",
+      "why": "Swedish short form; catches local postings",
+      "horizon": "2026",
+      "enabled": true
+    },
+    {
+      "id": "maskininlarning-ingenjor",
+      "title": "Maskininlärningsingenjör",
+      "tier": "nordic",
+      "why": "SE ML engineer label — wider net in Sweden",
+      "horizon": "2026",
+      "enabled": true
+    }
+  ],
+  "locations": [
+    "Gothenburg, Sweden",
+    "Stockholm, Sweden",
+    "Malmö, Sweden",
+    "Copenhagen, Denmark",
+    "Berlin, Germany",
+    "Munich, Germany",
+    "London, United Kingdom",
+    "Helsinki, Finland",
+    "Oslo, Norway",
+    "Barcelona, Spain"
+  ]
+}

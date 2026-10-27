@@ -90,6 +90,11 @@ documents/interview/**
 # Personal job search tracking
 job_search_tracker.csv
 
+# Job Battery local outputs / personal CV text (do not publish)
+job_scraper/linkedin_runs/
+tools/_cv_extract.txt
+
+
 # Gmail sync state (message IDs, subjects - personal data)
 gmail_sync/
 

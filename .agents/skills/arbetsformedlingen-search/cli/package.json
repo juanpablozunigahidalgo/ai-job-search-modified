@@ -1,0 +1,16 @@
+{
+  "name": "arbetsformedlingen-cli",
+  "version": "1.0.0",
+  "description": "CLI for Arbetsförmedlingen JobSearch open data API (Platsbanken) — official JSON API, no auth.",
+  "type": "module",
+  "bin": {
+    "arbetsformedlingen-search": "src/cli.ts"
+  },
+  "scripts": {
+    "start": "bun run src/cli.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "1.3.14"
+  }
+}
